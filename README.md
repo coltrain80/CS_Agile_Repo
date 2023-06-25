@@ -1,2 +1,11 @@
 # CS_Agile_Repo
 A repo for all things related to the Agile development process.
+
+## How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+* There are several ways to gather user requirements, one great way is through product demos. When I'm building a product and I demo progress on a regular basis, I can get regular feedback from users on things they like and don't like. Through this process we can ensure the project we are building has regular customer input which will allow us to build accurate user stories that deliver value and delight our customer.
+* 
+## How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+* I approach by identifying overall project goals, building stories that represent the work needed to achieve those goals and then creating small tasks from those stories to ensure work is bite sized and manageable. I will incorporate several Agile principles as I move forward including building user stories, having regular restrospectives and striving for technical excellence by innovating and continious learning.
+* 
+## What does it mean to be a good team member in software development?
+* This can mean several things, but first is being a good mentor for other engineers. I want to ensure that everyone feels they have a place on a project, that everyone has a seat at the table. By showing vulnerability and a willingness to learn, I can help break some stigmas Developers have around making mistakes visible (no one wants to show bad code) and by being transparent during the development process. I also believe in being a professional - doing the best work possible, operating with good intentions and doing whats right for my team and for stakeholders. Lastly, I want to be flexible with my role, ensuring I pick up tasks of all varieties. Documentation is less glamorous than building code but it is just as vital, setting a good example and flexing across tasks will ensure my team knows I'm a team player and willing to do whats right for my team. When this type of example is set, others follow suit and we build a better project where EVERYONE feels valued and a sense of belonging.
